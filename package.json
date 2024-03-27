@@ -1,0 +1,30 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "el mejor curso gratis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miller12A/curso-node.git"
+  },
+  "keywords": [
+    "node",
+    "curso",
+    "node.js"
+  ],
+  "author": "Miller MOra Choez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miller12A/curso-node/issues"
+  },
+  "homepage": "https://github.com/Miller12A/curso-node#readme",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
